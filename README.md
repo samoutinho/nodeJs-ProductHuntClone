@@ -1,2 +1,2 @@
 # nodeJs-ProductHuntClone
-## Clone api https://www.producthunt.com/
+## Api clone of the https://www.producthunt.com/ site using monbodb database.
